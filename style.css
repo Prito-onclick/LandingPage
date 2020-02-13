@@ -1,0 +1,51 @@
+.head{
+	background-color: black;
+    height: 70px;
+}
+.logo{
+    padding-top: 20px;
+}
+.logo img{
+	height: 25px;
+}
+.middle{
+    padding-top: 15px;
+    display: flex;
+    list-style: none;
+    margin-left: 15px;
+}
+.middle li{
+    padding-left: 30px;
+    padding-top: 8px;
+}
+.middle li a{
+	overflow: hidden;
+    padding-left: 0px;
+    color: white;
+}
+.middle li a:hover{
+	color: #4e73ff;
+	text-decoration: none;
+}
+.end{
+	margin-left: 20px;
+    padding-top: 15px;
+    display: flex;
+    list-style: none;
+}
+.end li{
+    padding-top: 8px;
+    margin-left: 15px;
+}
+.end a{
+	padding-left: 4px;
+    overflow: hidden;
+    color: white;
+}
+.end a:hover{
+	text-decoration: none;
+	color: #4e73ff;
+}
+.nav-mobile{
+	display: none;
+}
