@@ -93,6 +93,9 @@
 			        <li><a href="#!">News</a></li>
 			        <li><a href="#!">Photos</a></li>
 			        <li><a href="#!">Support</a></li>
+			        <li><a href="#!" class="third-1st">Global</a></li>
+			        <li><a href="#" class="third-icon"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+			        <li><a href="#!" class="third-icon"><i class="fa fa-user"></i></a></li>
 			      </ul>
 			    </nav>
 		  </div>
